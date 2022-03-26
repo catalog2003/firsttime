@@ -2,7 +2,7 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://www.g2s.store/post-sitemap.xml</loc>
-		<lastmod>2022-03-26T18:32:49+00:00</lastmod>
+		<lastmod>2022-03-26T18:46:44+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://www.g2s.store/page-sitemap.xml</loc>
@@ -10,11 +10,11 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://www.g2s.store/category-sitemap.xml</loc>
-		<lastmod>2022-03-26T18:32:49+00:00</lastmod>
+		<lastmod>2022-03-26T18:46:44+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://www.g2s.store/post_tag-sitemap.xml</loc>
-		<lastmod>2022-03-26T18:32:49+00:00</lastmod>
+		<lastmod>2022-03-26T18:46:44+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://www.g2s.store/author-sitemap.xml</loc>
